@@ -1,0 +1,14 @@
+{
+  "name": "interview-skill",
+  "owner": {
+    "name": "keita",
+    "email": "yamamoto@altonotes.co.jp"
+  },
+  "plugins": [
+    {
+      "name": "interview",
+      "source": "./",
+      "description": "AIエージェントが依頼者に効率的に質問し、要望・要件・設計の曖昧さと穴を潰すためのSkill"
+    }
+  ]
+}

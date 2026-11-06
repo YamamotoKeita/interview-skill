@@ -1,0 +1,10 @@
+{
+  "name": "interview",
+  "version": "0.1.0",
+  "description": "AIエージェントが依頼者に効率的に質問し、要望・要件・設計の曖昧さと穴を潰すためのSkill",
+  "author": {
+    "name": "keita",
+    "email": "yamamoto@altonotes.co.jp"
+  },
+  "keywords": ["interview", "requirements", "questions", "planning"]
+}
